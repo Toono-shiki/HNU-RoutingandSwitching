@@ -1,0 +1,10 @@
+1.在超星学习通下载课件压缩包之后完成解压
+2.(由于笔者使用的是win10系统，故以下内容均为win10系统背景)
+在"Exploration1_Chinese_Windows"的压缩包的解压过程中，会出现一个缺失文件名的错误，选择忽略即可。安装程序默认路径为"C:\CISCO_CCNA\Exploration1SimpChinese"
+3.在解压后的文件夹中找到"index.html"，选用打开方式为IE
+4.进入IE之后选择右上角的"..."，打开边栏后选择"更多工具"中的"Internet选项"，在该页面中选择"安全"，点选该页面的“自定义级别”，查找"ActiveX控件与插件"有关选项，将"ActiveX控件自动提示"修改为启用，退出该界面
+5.选择"..."边栏中的启用IE模式
+6.进入课件后flash player插件可能会出现要求下载flash player大厅版的弹窗。如果不想下载该软件，可以选择安装“https://github.com/darktohka/clean-flash-builds?tab=readme-ov-file”中的文件压缩包，解压后启用“FlashPatch.exe”。
+该情况下需要重新安装课件。
+
+//仅分享个人经验，如有问题欢迎探讨
